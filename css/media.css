@@ -1,0 +1,20 @@
+@media (max-width:1164px) {}
+
+@media (max-width:991px) {
+    .navbar-light .navbar-toggler {
+        background: #50f80c;
+        margin: auto;
+        margin-top: auto;
+        margin-top: 25px;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-nav .a1a::after {
+        height: 0;
+    }
+}
+
+@media (max-width:767px) {}
+
+@media(max-width:576px) {}
